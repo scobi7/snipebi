@@ -1,5 +1,9 @@
 SNIPING BOTTTTTT
 
+0. Initialize NGROK to setup a live server. 
+   Connect to Helius Webhook for live on-chain data
+   ngrok http 3000 to start, then make sure the forwarding address is updated in your Helius Webhook
+
 1. pull the following parameters of certain CA's:
     -signature
     -TVL (total value locked)
